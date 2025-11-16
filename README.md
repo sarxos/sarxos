@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sarxos/sarxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bartosz "sarxos" Firyn. I'm a software engineer, architect, and open-source enthusiast. I build practical tools, automation, and backend systems with a focus on reliability, clean design, and real-world usability. I enjoy working with Java, Linux, cloud platforms, and home-lab infrastructure. When possible, I share what I learn through code, experiments, and small but useful projects.
 
-Here are some ideas to get you started:
+## My GitHub Profile Trophies 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-trophy.vercel.app/?username=sarxos&theme=onestar&no-frame=false&no-bg=false&margin-w=17&margin-h=5)
+
+## My GitHub Statistics 📊
+
+![](https://github-readme-stats.vercel.app/api?username=sarxos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&card_width=500)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarxos&theme=dark&hide_border=false&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarxos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
