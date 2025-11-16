@@ -4,10 +4,10 @@ My name is Bartosz "sarxos" Firyn. I'm a software engineer, architect, and open-
 
 ## My GitHub Profile Trophies 🏆
 
-![](https://github-profile-trophy.vercel.app/?username=sarxos&theme=onestar&no-frame=false&no-bg=false&margin-w=17&margin-h=5)
+![](https://github-profile-trophy.vercel.app/?username=sarxos&theme=onestar&no-frame=false&no-bg=false&margin-w=5&margin-h=5)
 
 ## My GitHub Statistics 📊
 
-![](https://github-readme-stats.vercel.app/api?username=sarxos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&card_width=500)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarxos&theme=dark&hide_border=false&card_width=500)
+![](https://github-readme-stats.vercel.app/api?username=sarxos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarxos&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarxos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
