@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Bartosz "sarxos" Firyn. I'm a software engineer, architect, and open-source enthusiast. I build practical tools, automation, and backend systems with a focus on reliability, clean design, and real-world usability. I enjoy working with Java, Linux, cloud platforms, and home-lab infrastructure. When possible, I share what I learn through code, experiments, and small but useful projects.
+I'm a software engineer, architect, and open-source enthusiast. I build practical tools, automation, and backend systems with a focus on reliability, clean design, and real-world usability. I enjoy working with Java, Linux, cloud platforms, and home-lab infrastructure. When possible, I share what I learn through code, experiments, and small but useful projects.
 
 ## My GitHub Profile Trophies 🏆
 
